@@ -8,3 +8,6 @@ The white box represents the Agent Vehicle for which the motion planning is bein
 The yellow moving boxes are dynamic obstacles.
 The purple extension in front of yellow boxes is the predicted hight cost area.
 The cyan small blocks are static environment obstacles.
+
+
+   ![](planner.gif)
