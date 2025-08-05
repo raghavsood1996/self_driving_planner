@@ -1,6 +1,7 @@
 #pragma once
 #include <vector>
-#include"fssimplewindow.h"
+#include <string>
+#include "fssimplewindow.h"
 
 struct car {
 	int xpos;
