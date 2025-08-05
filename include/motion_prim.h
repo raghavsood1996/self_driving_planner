@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include <vector>
 #include <map>
+#include <climits>
 #include "Bitmap.h"
 using namespace std;
 

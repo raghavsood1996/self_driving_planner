@@ -1,12 +1,13 @@
-#pragma once
 #include <stdio.h>
 #include <stdlib.h>
 #include <iostream>
 #include "fssimplewindow.h"
 #include <fstream>
 #include <string>
-#include<math.h>
+#include <math.h>
 #include "Bitmap.h"
+
+using namespace std;
 
 
 

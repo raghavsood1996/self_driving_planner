@@ -9,6 +9,7 @@
 #include <queue>
 #include <unordered_set>
 #include <math.h>
+#include <climits>
 
 #if !defined(MAX)
 #define	MAX(A, B)	((A) > (B) ? (A) : (B))
